@@ -1,6 +1,6 @@
 {
-  "name": "@okcompute/test-gh-packages",
-  "version": "1.0.0",
+  "name": "@okcompute/com.okcompute.test-gh-packages",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,6 +11,6 @@
   "publishConfig": { "registry": "https://npm.pkg.github.com" },
   "repository" : {
       "type" : "git",
-      "url": "ssh://git@github.com/okcompute/test-gh-packages.git"
+      "url": "ssh://git@github.com/okcompute/com.okcompute.test-gh-packages.git"
   }
 }
